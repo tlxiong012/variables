@@ -52,16 +52,16 @@ print(d)
 name = "leo"
 print(name)
 #12) Make a variable called e that is set to the first letter of your name. And print the variable.
-e = "l"
+e = name[0]
 print(e)
 #13) Make a variable called f that is set to the last letter of your name. And print the variable.
-f = "o"
+f = name[2]
 print(f)
 #14) Make a variable called g that is set to "chicken". And print the variable.
 g = "chicken"
 print(g)
 #15) Make a variable called h that is set to the first 3 letters of you name, using the string indexes. And print the variable.
-h = name
+h = name[0:2]
 print(h)
 '''BOOLEANS'''
 #16) Make a variable called done that is set to False. And print the variable.
