@@ -21,20 +21,20 @@ START HERE
 '''
 
 #1)
-#Broken: name == "your name"
+#Broken: two equal symbols
 #name == "your name"
 #print(name)
 #Correct: name = "your name"
 
 #2)
-#Broken: x = "your name
+#Broken: x = missing quotation mark
 #x = "your name
 #print(x)
 #Correct: x = "your name"
 #print(x)
 
 #3)
-#Broken:print (aya)
+#Broken:print yay spelled incorrectly
 #yay = "yay"
 #print(aya)
 #PROBLEM: The variable is created correctly, but it won't print.
@@ -43,14 +43,14 @@ START HERE
 #print (yay)
 
 #4)
-#Broken: y == 4
+#Broken: two equal signs
 #y == 4
 #print(y)
 #Correct: y = 4
 #print(y)
 
 #5)
-#Broken:m == 5
+#Broken:two equal signs
 #m == 5
 #print(m)
 #Correct: m = 5
