@@ -21,10 +21,10 @@ START HERE
 '''
 
 #1)
-#Broken:
+#Broken: name == "your name"
 #name == "your name"
 #print(name)
-#Correct:
+#Correct: name = "your name"
 
 #2)
 #Broken: x = "your name
